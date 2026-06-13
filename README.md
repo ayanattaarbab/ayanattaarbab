@@ -15,3 +15,5 @@ Fun Facts:
 - I am a total movieholic and watch a massive number of movies
 - I cannot start my day without a cup of tea
 - The exact moment I discovered HTML was when everything clicked for me
+
+Let's collaborate or chat! You can reach me directly at ayanattaarbab@gmail.com.
