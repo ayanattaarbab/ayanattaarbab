@@ -1,4 +1,4 @@
-<b> Hey there! 👋 </b>
+### Hey there! 👋 </b>
 
 I'm Ayan, a full-stack web developer based in Pakistan.
 
@@ -8,7 +8,7 @@ I've completed my web development learning journey and built a solid foundation 
 
 I'm currently **open to work** and excited to take on new opportunities, freelance projects, and collaborations. Whether you have an interesting idea, a project that needs building, or simply want to connect, feel free to reach out. I'm always happy to explore new possibilities!
 
-### Fun Facts
+Fun Facts:
 - I've been coding since I was just 7 years old.
 - I'm a total movieholic and love watching movies.
 - I cannot start my day without a cup of tea. ☕
